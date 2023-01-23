@@ -1,0 +1,7 @@
+{
+  "transparent_http_ports": [],
+  "transparent_https_ports": [],
+  "allow_enabled": false,
+  "allow": [],
+  "allow_error_msg": "Access to %s is restricted by your Docker organization. To access this registry, ask your Docker administrator to add it to your organization's allowed registries."
+}
